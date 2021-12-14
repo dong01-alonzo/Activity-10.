@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #f9f3f36b;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  /* border: 1px solid lightgray;
+    padding: 30px; */
+}
+
+.box {
+  border: 1px solid lightgray;
+  padding: 5px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+#b2 {
+  width: 32%;
+  float: left;
+}
+
+#b3 {
+  width: 32%;
+  float: left;
+  margin-left:19.2px;
+}
+#b4 {
+  width: 32%;
+  float: right;
+}
